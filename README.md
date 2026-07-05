@@ -1,4 +1,4 @@
-# SBI SmartFlow Agent 🚀
+# SBI  YONO Agent 🚀
 
 An **AI-powered financial assistant** prototype for SBI that helps users plan purchases, build savings goals, and discover personalized financial products through conversational AI.
 
